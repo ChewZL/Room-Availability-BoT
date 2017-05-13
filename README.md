@@ -1,8 +1,8 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [SB Admin](http://startbootstrap.com/template-overviews/sb-admin/)
+# [Bosch hackathon](http://startbootstrap.com/) - [Room Availability BoT](http://startbootstrap.com/template-overviews/sb-admin/)
 
-[SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Bosch BoT hackathon](http://startbootstrap.com/template-overviews/sb-admin/) is a hackathon for students to create an IoT solution that makes buildings smarter [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-## Getting Started
+## About Room Availability
 
 To begin using this template, choose one of the following options to get started:
 * [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin/)
